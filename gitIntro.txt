@@ -8,3 +8,4 @@ $git add <file name>  --add or update file before commit
 $git commit -m "description message"
 $git push  -- push commit file to git repo
 $git rm <filename> --remove file 
+$git mv <current path> <new path> ---change file path
