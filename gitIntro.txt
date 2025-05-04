@@ -1,0 +1,9 @@
+setup:
+$git init -- initializing git
+$git clone <url> -- get entire repo codebase from URL
+$git pull  --pull from repo to make sure you have current codebase
+$git status  --get current status for git
+$git add <file name>  --add file before commit
+$git commit -m "description message"
+$git push  -- push commit file to git repo
+$git rm <filename> --remove file 
